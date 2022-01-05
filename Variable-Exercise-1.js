@@ -1,0 +1,15 @@
+let i;
+i = 10;
+let f;
+f = 20.5;
+let b;
+b = true;
+let s;
+s = "Hanoi";
+document.write("i = " + i);
+document.write("<br>");
+document.write("f = " + f);
+document.write("<br>");
+document.write("b = " + b);
+document.write("<br>");
+document.write("s = " + s);
